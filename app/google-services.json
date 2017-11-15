@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "477892735036",
+    "project_id": "contacts-186107"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477892735036:android:f22b7ca6b71a9041",
+        "android_client_info": {
+          "package_name": "com.alexanderplyaka.contacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477892735036-i6qvogqnh9rpm5nhnn11ajtjeur27flp.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "477892735036-hq1vgbqtlhfi674aait58n8478c9tfe5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alexanderplyaka.contacts",
+            "certificate_hash": "8ec2b9837cd8522624188c9030f9bf72a81191f0"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkDFHuRPg8srS_0n4H6Nzg4UastxHnyr4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
